@@ -199,11 +199,11 @@
 
 절대길이단위
 
-![css 절대 길이 단위](Web 정리.assets/css 절대 길이 단위.JPG)
+![absolute_length](https://user-images.githubusercontent.com/97648339/153757068-5898df0a-e7db-4c39-a798-92d02564d4ec.JPG)
 
 상대길이단위
 
-![상대길이단위](Web 정리.assets/상대길이단위.JPG)
+![relative_length](https://user-images.githubusercontent.com/97648339/153757060-964bfb0a-087e-4f3e-b707-05a77b836200.JPG)
 
 root의 기본 글꼴 크기는 16px이다.
 
@@ -452,7 +452,7 @@ css 파일 불러오기
 
 #### BreakPoint
 
-![grid_breakpoint](Web 정리.assets/grid_breakpoint.JPG)
+![grid_breakpoint](https://user-images.githubusercontent.com/97648339/153756929-862a68e6-3553-4066-ac20-fa307a9e5418.JPG)
 
 flex 에도 breakpoint를 사용할 수 있다.
 
